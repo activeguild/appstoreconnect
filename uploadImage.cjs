@@ -60,7 +60,7 @@ const main = async (args) => {
             uploaded: true,
           },
           type: "appClipAdvancedExperienceImages",
-          id: "7efb8e89-c7ae-42bd-a98f-d9a4ae2ec074",
+          id: dataImages.data.id,
         },
       }),
     }
